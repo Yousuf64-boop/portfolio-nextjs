@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <section className="min-h-[80vh] flex flex-col md:flex-row items-center justify-center gap-10">
       <div className="flex-1 text-center md:text-left">
-        <h1 className="text-5xl font-bold">Hi, I'm <span className="text-blue-600">Yousuf Middya</span></h1>
+        <h1 className="text-5xl font-bold">Hi, I&apos;m <span className="text-blue-600">Yousuf Middya</span></h1>
         <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
           A passionate AI/ML and Fullstack Developer. I build modern web apps,
           solve real-world problems with machine learning, and love clean UI/UX.
